@@ -20,8 +20,8 @@ function App() {
       content: "Full Stack Development",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Full-Stack-Developer-vs-Software-Engineer-.webp",
-      title: "Top Differences: Full Stack Developer vs Software Engineer 2024",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2024/06/Feature-Image-Mastering-Shadow-DOM-Events.webp",
+      title: "Mastering Shadow DOM Events: A Comprehensive Guide [2024]",
       description:
         "A Full Stack Developer is a tech all-rounder. They work on both the front and",
       date: "16 February 2024",
@@ -198,9 +198,9 @@ function App() {
       content: "Career",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2024/01/Feature-image-Top-Technologies-to-Learn-Jumpstart-a-Successful-Tech-Career.webp",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2024/06/Feature-Image-The-Role-of-Database-Administrators-Important-Skills-and-Responsibilities.webp",
       title:
-        "Top Technologies to Learn in 2024: Jumpstart a Successful Tech Career",
+        "The Role of Database Administrators: Important Skills and Responsibilities [2024]",
       description:
         "If your New Year resolution consists of building a successful tech career in 2024, then",
       date: "19 January 2024",
