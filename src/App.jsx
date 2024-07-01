@@ -44,28 +44,28 @@ function App() {
       content: "Full Stack Development",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/10/Featured-Image-top-product-based-companies-for-full-stack-developers.webp",
-      title: "Top 10 Product-Based Companies for Full-Stack Developers [2024]",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2015/02/blog-2-e1626109662385.png",
+      title: "Top 30 Mini Project Ideas For College Students [UPDATED]",
       description:
         "In the dynamic landscape of technology, full-stack developers are the architects of the digital world,",
       date: "29 June 2024",
       content: "Full Stack Development",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
-      title: "Top 10 High Paying Non-Coding Jobs in Data Science in 2024",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/03/10_hardest_and_easiest_programming_languages_in_2024-1536x596.webp",
+      title: "10 Hardest and Easiest Programming Languages in 2024",
       description:
         "Are you someone who’s not interested in coding, but wants to get placed in tech",
       date: "29 June 2024",
-      content: "Data Science",
+      content: "Java script",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-1-2048x1024.webp",
-      title: "Impact of Certification Programs on Hiring Data Scientists",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/02/animated-javascript-project-image-1200x675.jpg",
+      title: "30 Best JavaScript Project Ideas For You [3 Bonus Portfolio Projects]",
       description:
         "Data scientists are the creators behind transforming the raw data into edible data insights. These",
       date: "29 June 2024",
-      content: "Data Science",
+      content: "Java script",
     },
     {
       img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/feature-image-product-based-companies-for-data-science-freshers.webp",
