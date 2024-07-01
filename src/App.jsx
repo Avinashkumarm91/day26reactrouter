@@ -68,17 +68,17 @@ function App() {
       content: "Java script",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/feature-image-product-based-companies-for-data-science-freshers.webp",
-      title: "Top Product-Based Companies for Data Science Freshers",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/04/image-18.png",
+      title: "Crack the TCS IPA Exam: Top Questions and Exclusive Tips for Success!",
       description:
         "In today’s data-driven world, data science has emerged as a crucial field, with companies harnessing",
       date: "29 June 2024",
       content: "Data Science",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Difference-between-Data-Science-and-Data-Engineering.webp",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2024/06/Feature-Image-Understanding-Programmatic-Advertising.webp",
       title:
-        "What is the Difference between Data Science and Data Engineering?",
+        "Understanding Programmatic Advertising: A Comprehensive Guide",
       description:
         "India has been making some serious waves in the world of data. Just like the",
       date: "29 June 2024",
@@ -86,8 +86,8 @@ function App() {
     },
    
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
-      title: "7 Best Full-Stack Development Online Courses [2024]",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2024/01/feature_image-7.webp",
+      title: "Top 10 Cloud Computing Project Ideas [2024]",
       description:
         "Today’s world is rapidly evolving into a technological landscape. Owing to these dynamics, the demand",
       date: "29 June 2024",
@@ -96,8 +96,8 @@ function App() {
     
   
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/best-way-to-learn-full-stack-development-2048x1072.webp",
-      title: "Best Ways to Learn Full Stack Development in 2024",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Cloud-Computing-Jobs-without-Coding-1.png",
+      title: "Top 10 High Paying Cloud-Computing Jobs without Coding in 2024",
       description:
         "Full stack development is and will be a promising and in-demand career in the upcoming",
       date: "29 June 2024",
