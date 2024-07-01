@@ -12,8 +12,8 @@ import Footer from "./Footer";
 function App() {
   const data = [
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/top-ways-to-assess-soft-skills-in-full-stack-developers.webp",
-      title: "Top Ways to Assess Soft Skills in Full Stack Developers in 2024",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/03/java.jpeg",
+      title: "40 Java Interview Questions for Freshers with Clear & Concise Answers",
       description:
         "When you’re hiring a full-stack developer, what are the most important things you look for?",
       date: "29 June 2024",
@@ -28,16 +28,16 @@ function App() {
       content: "Full Stack Development",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Horizontal-vs-Vertical-Scaling-for-Efficient-System-Design.webp",
-      title: "Horizontal vs Vertical Scaling for Efficient System Design",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Render-array-of-objects-in-ReactJs-1536x864.png",
+      title: "How to Render an Array of Objects in React? [in 3 easy steps]",
       description:
         "In the world of system design, envision a digital skyscraper – a multifaceted structure built",
       date: "29 June 2024",
       content: "Full Stack Development",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-Books-to-Learn-Full-Stack-Development.webp",
-      title: "Best Books to Learn Full-Stack Development",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Fetch-Data-using-API-in-React.Js-1536x864.png",
+      title: "Use ReactJS to Fetch and Display Data from API – 5 Simple Steps",
       description:
         "Are you interested in becoming a full-stack developer but not sure where to start? In",
       date: "29 June 2024",
