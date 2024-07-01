@@ -16,7 +16,7 @@ function App() {
       title: "Top Ways to Assess Soft Skills in Full Stack Developers in 2024",
       description:
         "When you’re hiring a full-stack developer, what are the most important things you look for?",
-      date: "15 November 2023",
+      date: "29 June 2024",
       content: "Full Stack Development",
     },
     {
@@ -24,7 +24,7 @@ function App() {
       title: "Mastering Shadow DOM Events: A Comprehensive Guide [2024]",
       description:
         "A Full Stack Developer is a tech all-rounder. They work on both the front and",
-      date: "16 February 2024",
+      date: "29 June 2024",
       content: "Full Stack Development",
     },
     {
@@ -32,7 +32,7 @@ function App() {
       title: "Horizontal vs Vertical Scaling for Efficient System Design",
       description:
         "In the world of system design, envision a digital skyscraper – a multifaceted structure built",
-      date: "10 November 2023",
+      date: "29 June 2024",
       content: "Full Stack Development",
     },
     {
@@ -40,7 +40,7 @@ function App() {
       title: "Best Books to Learn Full-Stack Development",
       description:
         "Are you interested in becoming a full-stack developer but not sure where to start? In",
-      date: "9 November 2023 ",
+      date: "29 June 2024",
       content: "Full Stack Development",
     },
     {
@@ -48,7 +48,7 @@ function App() {
       title: "Top 10 Product-Based Companies for Full-Stack Developers [2024]",
       description:
         "In the dynamic landscape of technology, full-stack developers are the architects of the digital world,",
-      date: "8 November 2023",
+      date: "29 June 2024",
       content: "Full Stack Development",
     },
     {
@@ -56,7 +56,7 @@ function App() {
       title: "Top 10 High Paying Non-Coding Jobs in Data Science in 2024",
       description:
         "Are you someone who’s not interested in coding, but wants to get placed in tech",
-      date: "28 November 2023",
+      date: "29 June 2024",
       content: "Data Science",
     },
     {
@@ -64,7 +64,7 @@ function App() {
       title: "Impact of Certification Programs on Hiring Data Scientists",
       description:
         "Data scientists are the creators behind transforming the raw data into edible data insights. These",
-      date: "15 November 2023 ",
+      date: "29 June 2024",
       content: "Data Science",
     },
     {
@@ -72,7 +72,7 @@ function App() {
       title: "Top Product-Based Companies for Data Science Freshers",
       description:
         "In today’s data-driven world, data science has emerged as a crucial field, with companies harnessing",
-      date: "10 November 2023 ",
+      date: "29 June 2024",
       content: "Data Science",
     },
     {
@@ -81,7 +81,7 @@ function App() {
         "What is the Difference between Data Science and Data Engineering?",
       description:
         "India has been making some serious waves in the world of data. Just like the",
-      date: "8 November 2023",
+      date: "29 June 2024",
       content: "Data Science",
     },
    
@@ -90,7 +90,7 @@ function App() {
       title: "7 Best Full-Stack Development Online Courses [2024]",
       description:
         "Today’s world is rapidly evolving into a technological landscape. Owing to these dynamics, the demand",
-      date: "31 August 2023",
+      date: "29 June 2024",
       content: "Full Stack Development",
     },
     
@@ -100,7 +100,7 @@ function App() {
       title: "Best Ways to Learn Full Stack Development in 2024",
       description:
         "Full stack development is and will be a promising and in-demand career in the upcoming",
-      date: "4 August 2023",
+      date: "29 June 2024",
       content: "Full Stack Development",
     },
     {
@@ -108,7 +108,7 @@ function App() {
       title: "How Long Would It Take to Be a Full Stack Developer?",
       description:
         "Have you ever wondered how much time it would take to become a skilled Full",
-      date: "4 August 2023 ",
+      date: "29 June 2024 ",
       content: "Full Stack Development",
     },
     
@@ -118,7 +118,7 @@ function App() {
       title: "Best Data Science Books to Learn in 2024",
       description:
         "Today, we’re going to talk about something really cool: data science. It’s all about using",
-      date: "26 October 2023",
+      date: "29 June 2024",
       content: "Data Science",
     },
     {
@@ -126,7 +126,7 @@ function App() {
       title: "Top Product-Based Companies for Data Scientists in 2024",
       description:
         "We all know about the kind of buzz surrounding data science right now, it is",
-      date: "5 October 2023",
+      date: "29 June 2024",
       content: "Data Science",
     },
     {
@@ -134,7 +134,7 @@ function App() {
       title: "Useful Python Libraries & Tools for Data Science Beginners",
       description:
         "In a world filled with information, knowing how to understand and use data is super",
-      date: "29 September 2023 ",
+      date: "29 June 2024 ",
       content: "Data Science",
     },
     {
@@ -143,15 +143,15 @@ function App() {
         "Extraordinary Data Science Projects for Beginners As Well as Veterans",
       description:
         "As the demand for data and the people that can conquer it, i.e. Data Scientists",
-      date: "28 August 2023 ",
+      date: "29 June 2024",
       content: "Data Science",
     },
     {//
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
-      title: "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2024/06/Feature-Image-Database-Design-Principles-and-Best-Practices.webp",
+      title: "Database Design: Principles and Best Practices",
       description:
         "In the rapidly evolving field of cybersecurity, there is a common misconception that coding skills",
-      date: "4 December 2023",
+      date: "29 June 2024",
       content: "Cyber Security",
     },
     
